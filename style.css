@@ -25,8 +25,39 @@ body{
     text-decoration: none;
     color: white;
     background-image: linear-gradient(orange, red);
-    padding: 3px 15px;
+    padding: 15px 25px;
     border-radius: 5px;
+    border: none;
+}
+
+/* ----------------------------- Donate Today Area --------------------------- */
+
+.donate-today-area{
+    margin-top: 100px;
+    text-align: center;
+}
+.donate-today-area h1{
+    font-size: 40px;
+}
+.donate-today-area p{
+    margin-bottom: 50px;
+}
+.inline-amounts{
+    display: inline;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    background-color: rgba(221, 255, 71, 0.288);
+}
+.orange-amount{
+    border: 1px solid tomato;
+    border-radius: 5px;
+    color: tomato;
+}
+#input-amount{
+    margin-top: 90px;
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
 }
 
 /* ----------------------------- Donate plane Area --------------------------- */
@@ -48,7 +79,7 @@ body{
     margin-left: 30px;
     padding: 60px 20px;
     text-align: justify;
-    background-color: rgba(218, 136, 14, 0.637);
+    background-color: rgba(255, 255, 0, 0.418);
     border-radius: 10px;
 }
 
@@ -85,13 +116,16 @@ body{
     width: 50%;
 }
 .form{
-    background-color: rgba(255, 255, 0, 0.185);
+    background-color: rgba(255, 255, 0, 0.418);
     width: 60%;
     height: 100px;
     margin-left: 270px;
     margin-bottom: 100px;
     text-align: center;
     padding-top: 70px;
+}
+#email-box{
+    padding: 12px;
 }
 
 /* ------------------------------- Footer Area ------------------------------- */
