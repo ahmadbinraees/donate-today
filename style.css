@@ -7,17 +7,19 @@ body{
     text-align: center;
     background-image: url(images/donation5.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
     background-position: center;
     height: 500px;
 }
 .banner h1{
-    padding-top: 120px;
+    padding-top: 100px;
     color: blue;
     font-size: 60px;
 }
 .banner h3{
     color: blue;
     font-size: 15px;
+    margin-bottom: 20px;
 }
 .linked-button{
     text-decoration: none;
