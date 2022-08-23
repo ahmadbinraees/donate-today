@@ -66,3 +66,19 @@ body{
     text-align: center;
     padding-top: 70px;
 }
+
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 30px 0;
+}
+footer h1{
+    color: tomato;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+footer h6{
+    color: white;
+    font-size: 12px;
+    font-weight: 100;
+}
