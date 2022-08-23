@@ -1,3 +1,27 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.banner{
+    text-align: center;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+.banner h1{
+    padding-top: 120px;
+    color: blue;
+    font-size: 60px;
+}
+.banner h3{
+    color: blue;
+    font-size: 15px;
+}
+.linked-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(black, blue);
+    padding: 3px 15px;
 }
