@@ -44,3 +44,25 @@ body{
     width: 100%;
     padding-top: 50px;
 }
+
+.subscription-area{
+    margin-top: 100px;
+    text-align: center;
+}
+.subscription-area h1{
+    font-size: 40px;
+}
+#center-paragraph{
+    margin-left: 340px;
+    margin-bottom: 50px;
+    width: 50%;
+}
+.form{
+    background-color: rgba(255, 255, 0, 0.185);
+    width: 60%;
+    height: 100px;
+    margin-left: 270px;
+    margin-bottom: 100px;
+    text-align: center;
+    padding-top: 70px;
+}
