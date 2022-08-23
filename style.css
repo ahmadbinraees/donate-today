@@ -5,7 +5,7 @@ body{
 
 .banner{
     text-align: center;
-    background-image: url(images/donation5.jpg);
+    background-image: url(images/donation4.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -13,17 +13,18 @@ body{
 }
 .banner h1{
     padding-top: 100px;
-    color: blue;
+    color: red;
     font-size: 60px;
 }
 .banner h3{
-    color: blue;
+    color: white;
     font-size: 15px;
     margin-bottom: 20px;
 }
 .linked-button{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(black, blue);
+    background-image: linear-gradient(orange, red);
     padding: 3px 15px;
+    border-radius: 5px;
 }
