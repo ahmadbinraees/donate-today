@@ -5,26 +5,28 @@ body{
 
 .banner{
     text-align: center;
-    background-image: url(images/donation4.jpg);
+    background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    background-position: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
     height: 500px;
 }
 .banner h1{
-    padding-top: 100px;
-    color: red;
+    padding-top: 10px;
+    color: white;
     font-size: 60px;
 }
 .banner h3{
     color: white;
     font-size: 15px;
+    font-weight: 100;
     margin-bottom: 20px;
 }
 .linked-button{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(orange, red);
+    background-image: linear-gradient(tomato, tomato);
     padding: 15px 25px;
     border-radius: 5px;
     border: none;
@@ -79,8 +81,17 @@ body{
     margin-left: 30px;
     padding: 60px 20px;
     text-align: justify;
-    background-color: rgba(255, 255, 0, 0.418);
     border-radius: 10px;
+}
+/* this is for donate plane box bg */
+.first-color-bg{
+    background-color: rgba(243, 147, 69, 0.363);
+}
+.second-color-bg{
+    background-color: rgba(243, 147, 69, 0.363);
+}
+.third-color-bg{
+    background-color: rgba(255, 65, 59, 0.336);
 }
 
 /* ---------------------------- Donation causes Area ------------------------- */
